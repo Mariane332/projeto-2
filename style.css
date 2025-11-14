@@ -5,7 +5,7 @@ body {
      margin-bottom: 0px;
      background-color: rebeccapurple;
     color:antiquewhite;
-    display: flex;
+    display: flexbox;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
