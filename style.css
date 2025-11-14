@@ -2,7 +2,7 @@ body {
     background-color:rgb(189, 116, 211);
 }
 .cabeçalho {
-     margin-top: 0px;
+     margin-bottom: 0px;
      background-color: rebeccapurple;
     color:antiquewhite;
     display: flexbox;
